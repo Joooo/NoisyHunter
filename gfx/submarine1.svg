@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="submarine1.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="312.34314"
-     inkscape:cy="217.14286"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="625.36349"
+     inkscape:cy="180.90103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,8 +89,9 @@
      transform="translate(0,-652.36218)">
     <path
        style="fill:#7aa1ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 300 50 L 250 100 L 250 150 L 150 150 L 100 200 L 60 160 L 60 340 L 100 300 L 150 350 L 500 350 L 550 300 L 550 200 L 500 150 L 400 150 L 400 100 L 350 50 L 300 50 z "
+       d="m 300,50 -50,50 0,50 -100,0 -50,50 -70,-40 0,180 70,-40 50,50 350,0 50,-50 0,-100 -50,-50 -50,0 0,-20 20,-10 0,-10 -30,10 -5,30 -35,0 0,-100 -100,0 z"
        transform="translate(0,652.36218)"
-       id="path3627" />
+       id="path3627"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
   </g>
 </svg>
